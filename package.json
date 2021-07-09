@@ -1,0 +1,26 @@
+{
+  "name": "odometer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennerdulce/odometer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennerdulce/odometer/issues"
+  },
+  "homepage": "https://github.com/jennerdulce/odometer#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
